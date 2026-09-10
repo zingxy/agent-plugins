@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Machine-readable catalog of reusable agent skills in this plugin.",
   "basePath": "skills",
   "skills": [
