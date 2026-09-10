@@ -19,7 +19,7 @@
     },
     {
       "name": "graphics-teach",
-      "description": "生成沉浸式交互教学页来讲解图形学/渲染/游戏引擎概念(Canvas 2D 原理、渲染管线、矩阵变换、曲线、Three.js、WebGL、Bevy ECS 等),风格对标 3Blue1Brown / GeoGebra / Desmos——以连续动画和可拖参数建立直觉。当用户说\"给我讲讲 / 解释一下 / 做个页面演示 X\"且主题是图形学相关概念时使用。产物默认落当前目录;用户要求沉淀进 wiki 时,归档转交 wiki-html。",
+      "description": "生成沉浸式交互教学页来讲解图形学/渲染/游戏引擎概念(Canvas 2D 原理、渲染管线、矩阵变换、曲线、Three.js、WebGL、Bevy ECS 等),风格对标 3Blue1Brown / GeoGebra / Desmos——以连续动画和可拖参数建立直觉。当用户说\"给我讲讲 / 解释一下 / 做个页面演示 X\"且主题是图形学相关概念时使用。课程统一落 ~/digit-garden/;用户要求沉淀进 wiki 时,归档链路交由 wiki-html 负责。",
       "path": "skills/graphics-teach/SKILL.md",
       "when": "When the user wants a graphics, rendering, or game-engine concept explained as an immersive interactive teaching page.",
       "next": [],

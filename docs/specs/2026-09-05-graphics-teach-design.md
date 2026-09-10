@@ -1,7 +1,7 @@
 # design-system + graphics-teach 技能设计
 
 日期:2026-09-05
-状态:已实现
+状态:初版已实现,本文保留历史设计。当前工程与教学约定以 [graphics-teach](../../plugins/agent-workflows/skills/graphics-teach/SKILL.md) 和 [design-system](../../plugins/agent-workflows/skills/design-system/SKILL.md) 为准。
 
 ## 背景
 
